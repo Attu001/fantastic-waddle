@@ -2,7 +2,7 @@
 # fantastic-waddle
 User Authentication and Product Management System
 
-//        <<<<<<<<<<<<<<<  Features  >>>>>>>>>>>>>>> 
+//        <<<<<<<<<<<<<<<  Features  >>>>>>>>>>>>>>> <br>
 User Registration: Allows users to create an account with email and password.
 User Login: Authenticates users and provides access to the product management system.
 Product Listing: Displays products with search and pagination.
