@@ -1,0 +1,55 @@
+.price-tag {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .price-tag .price {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: rgb(6, 4, 4); 
+    color: #fff; 
+    padding: 5px 10px;
+    border-radius: 5px;
+    transform: rotate(-45deg); 
+    transform-origin: bottom right; 
+    white-space: nowrap; 
+  }
+
+  .custom-pagination .active-page {
+    background-color: #28a745; 
+    border-color: #28a745;
+    color: white;
+  }
+  
+  .custom-pagination .inactive-page {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: white;
+  }
+  
+  .custom-pagination .page-link {
+    background-color: #f8f9fa; 
+    color: #0078f0;
+  }
+  
+  .custom-pagination .page-link:hover {
+    background-color: #343a40;
+    color: white;
+  }
+  
+  .styled-heading {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: #28a745;
+    letter-spacing: 1px;
+  }
+  
+  .styled-email {
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 500;
+    color: #007bff;
+    letter-spacing: 1px;
+  }
+  
+  
